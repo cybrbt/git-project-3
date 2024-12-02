@@ -1,0 +1,5 @@
+# ignore programming files
+*.o
+
+# ignore operating system files
+*.DS_Store
